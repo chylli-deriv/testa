@@ -1,0 +1,14 @@
+{
+  "name": "@chylli-deriv/npm-package-template",
+  "version": "1.0.8",
+  "repository": "https://github.com/chylli-deriv/npm-package-template",
+  "description": "github package example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Dummy test\"",
+    "build": "echo \"Bulding\""
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}

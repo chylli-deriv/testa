@@ -1,0 +1,8 @@
+This is a template module for npm packages. It is intended to be used as a starting point for creating new npm packages.
+
+## Usage
+1. Create a new repository using this repository as a template.
+2. Setup github token into secrets variable NPM_AUTH_TOKEN for publishing to github packages.
+3. do what you need, update packages.json, README.md, etc.
+4. When your PR is merged or you push to master, the package will be published to github packages.
+
